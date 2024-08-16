@@ -34,12 +34,13 @@ namespace WFDemo1
             // 
             // Hellobutton1
             // 
+            this.Hellobutton1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.Hellobutton1.Location = new System.Drawing.Point(311, 49);
             this.Hellobutton1.Name = "Hellobutton1";
             this.Hellobutton1.Size = new System.Drawing.Size(126, 40);
             this.Hellobutton1.TabIndex = 0;
             this.Hellobutton1.Text = "Hello World";
-            this.Hellobutton1.UseVisualStyleBackColor = true;
+            this.Hellobutton1.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
